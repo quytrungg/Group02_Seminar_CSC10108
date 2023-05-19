@@ -1,0 +1,37 @@
+Age
+Gender
+Salary
+Title
+Formal Education
+Learning Platforms
+Coding Experience
+ML Experience
+Important Activities
+Languages
+IDEs
+Notebooks
+Visualization Tools
+ML Frameworks
+Cloud Computing Tools
+Cloud Computing Products
+ML Usage in Business
+ML Algorithms
+Computer Vision Methods
+NLP Methods
+ML Hardware
+TPU
+AutoML
+Company Size
+Number of Data Scientists
+Money Spent
+Managed ML
+Published Papers
+ML Research
+ML Serve
+Ethical AI tools
+Industry Type
+Data Storage Products
+Data Products
+ML Monitor Tools
+Country
+Year
